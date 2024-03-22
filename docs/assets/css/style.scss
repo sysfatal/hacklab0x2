@@ -3,23 +3,18 @@
 
 @import "{{ site.theme }}";
 
-body {
-  color: #000000;
-  background-color: #000000;
-}
-
 h1, h2, h3, h4, h5, h6 {
-  color:#FFFFFF;
+  color:#cc00cc;
   margin:0 0 20px;
 }
 
 a {
-  color:#FFFFFF;
+  color:#cc00cc;
   text-decoration:none;
 }
 
 a:hover, a:focus {
-  color:#FFFFFF;
+  color:#660066;
   font-weight: bold;
 }
 
