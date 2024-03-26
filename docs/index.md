@@ -1,12 +1,16 @@
 # Hacklab²
 
-Second iteration of the HackLab @ URJC.
+This is the second iteration of the HackLab @ URJC.
+
+Want to join?
+
+Contact: *enrique.soriano* at *urjc* dot *es*
 
 ---
 
-## [void]
-_vie 22 mar 2024 19:02:52 CET_
+## [Resurrection]
+_mar 26 mar 2024 18:14:56 CET_
 
-void for now
+Here we are again, to hack for fun (not for profit).
 
 ---
