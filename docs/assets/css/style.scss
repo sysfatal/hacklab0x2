@@ -5,7 +5,7 @@
 
 h1, h2, h3, h4, h5, h6 {
   margin:0 0 20px;
-  color:#000000;
+  color: black;
 }
 
 a {
@@ -15,10 +15,14 @@ a {
 
 a:hover, a:focus {
   font-weight: bold;
-  color:#000000;
+  color: black;
 }
 
 code {
-  color:#000000;
+  color: black;
   font-size: 75%;
+}
+
+body {
+	color: black;
 }
