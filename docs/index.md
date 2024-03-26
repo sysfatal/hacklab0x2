@@ -2,8 +2,6 @@
 
 This is the second iteration of the HackLab @ URJC.
 
-Want to join?
-
 Contact: *enrique.soriano* at *urjc* dot *es*
 
 ---
