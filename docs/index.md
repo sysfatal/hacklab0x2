@@ -2,7 +2,10 @@
 
 This is the second iteration of the HackLab @ URJC.
 
-Contact: *enrique.soriano* at *urjc* dot *es*
+Contact:
+
+* *enrique.soriano* at *urjc* dot *es*
+* *gorka.guardila* at *urjc* dot *es*
 
 ---
 
