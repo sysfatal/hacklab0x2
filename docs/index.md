@@ -9,7 +9,7 @@ Contact: ```( enrique.soriano | gorka.guardiola ) @ urjc . es```
 _Mon Apr 15 13:11:28 CEST 2024_
 
 We are proud to announce the first edition
-of the Criptored Cybersecurity Talks, organized by the Hacklab²
+of the Criptored Cybersecurity Talks, organized by Hacklab²
 and Criptored!
 
 When: Jun 14 16:00-20:00
