@@ -23,7 +23,7 @@ Where: URJC Campus de Fuenlabrada, Aula Magna, Aulario III
 ---
 
 ## [Resurrection]
-_Tue Mar 26 2024 18:14:56 CET_
+_Tue Mar 26 18:14:56 CEST 2024_
 
 Here we are again. Lets hack for fun, not for profit.
 
