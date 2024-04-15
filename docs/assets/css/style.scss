@@ -9,13 +9,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 a {
+  font-weight: bold;
   text-decoration:none;
   color: white;
 }
 
 a:hover, a:focus {
   font-weight: bold;
-  color:#C0C0C0 
+  color: red 
 }
 
 body {
