@@ -5,9 +5,25 @@ This is the second iteration of the HackLab @ URJC.
 Contact: ```( enrique.soriano | gorka.guardiola ) @ urjc . es```
 
 ---
+## [Criptored Cybersecurity Talks]
+_Mon Apr 15 13:11:28 CEST 2024_
+
+We are proud to announce the first edition
+of the Criptored Cybersecurity Talks, organized by the Hacklab²
+and Criptored!
+
+When: Jun 14 16:00-20:00
+
+Where: URJC Campus de Fuenlabrada, Aula Magna, Aulario III
+
+**Save the date!**
+
+[https://www.criptored.es/criptoredtalks/](https://www.criptored.es/criptoredtalks/)
+
+---
 
 ## [Resurrection]
-_mar 26 mar 2024 18:14:56 CET_
+_Tue Mar 26 2024 18:14:56 CET_
 
 Here we are again. Lets hack for fun, not for profit.
 
