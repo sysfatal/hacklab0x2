@@ -2,6 +2,8 @@
 
 This is the second iteration of the HackLab @ URJC.
 
+Contact: ```{enrique.soriano | gorka.guardiola } @ urjc . es```
+
 ---
 
 ## [Resurrection]
