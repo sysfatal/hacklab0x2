@@ -3,7 +3,7 @@
 	- Compras:
 
 		- analizador jtag (bus pirate, etc.).
-		- lector/escritor EEPROM universal.
+		- lector/escritor EPROM universal.
 		- N discos duros para romper.
 
 * Exobin: mini VM de proceso para controlar un binario para depurar/reversing, con hooking para las syscalls e interceptores de instrucciones máquina. OBJETIVO: aprender más sobre instrucciones de virtualización y hacer una herramienta curiosa.
