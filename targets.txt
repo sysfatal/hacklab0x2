@@ -1,0 +1,22 @@
+* Reversing de discos duros modernos SSD. Comprar unos cuantos y analizar el firmware, electrónica, etc. OBJETIVOS: aprender sobre cómo funciona el firmware, etc. y posibles vulnerabilidades,...
+
+	- Compras:
+
+		- analizador jtag (bus pirate, etc.).
+		- lector/escritor EEPROM universal.
+		- N discos duros para romper.
+
+* Exobin: mini VM de proceso para controlar un binario para depurar/reversing, con hooking para las syscalls e interceptores de instrucciones máquina. OBJETIVO: aprender más sobre instrucciones de virtualización y hacer una herramienta curiosa.
+
+* Sistema de logging tamper-evident que registre todos los procesos/programas que escriben en ficheros (por cualquier método: open+write, mmap, y otras formas raras). OBJETIVO: investigación, esto puede ser publicable.
+
+* Pentesting del robot Unitree Go2 (la cabra).
+
+* Análisis y reversing de firmware de PCs. 
+
+* Reversing y análisis de Ring -3 (Management Engine, ME) en procesadores Intel. OBJETIVOS: ver el estado del arte, hasta dónde han llegado los que estaban haciendo reversing de esto, e intentar avanzar. 
+
+* Análisis del firmware de un dock (p. ej. UGREEN) y ver si hace cosas que no debe, o encontrar vulnerabilidades dentro. 
+
+
+
